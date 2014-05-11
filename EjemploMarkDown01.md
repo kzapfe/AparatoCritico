@@ -69,4 +69,4 @@ por comunidades más amplias (e.g, artistas), o resultan demasiado específicas?
 
 **Nota**: este texto fue hecho usando Markdown para todo excepto para la linea
 de _"leer más"_. 
-El archivo original se puede consultar [aquí](https://www.github.com/kzapfe/AparatoCritico).
+El archivo original se puede consultar [aquí](https://github.com/kzapfe/AparatoCritico/blob/master/EjemploMarkDown01.md).
